@@ -1,7 +1,7 @@
 # pnwbiochar
 Biochar decision support tools created in RShiney
 
-This repository contains source code for a set of decision support tools to be used for selecting a biochar type and application rate. All  code was written in RShiney.
+This repository contains source code for a set of decision support tools to be used for selecting a biochar type and application rate. 
 
 The tool set includes:
 
